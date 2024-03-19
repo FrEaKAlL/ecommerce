@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="105.6712mm"
+   height="67.86879mm"
+   viewBox="0 0 105.6712 67.86879"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-25.000001,-29.000001)">
+    <g
+       id="g4"
+       transform="matrix(1.0450735,0,0,1.1431635,-1.7380251,-4.872302)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.679027"
+         id="rect3"
+         width="101.11366"
+         height="59.369274"
+         x="25.584827"
+         y="29.630322"
+         inkscape:export-filename="fileicon.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-size:64.3389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';fill:#000000;fill-opacity:1;stroke-width:5.86003"
+         x="31.586304"
+         y="77.395096"
+         id="text1"
+         transform="scale(0.92137463,1.0853349)"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64.3389px;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:5.86004"
+           x="31.586304"
+           y="77.395096">T<tspan
+   style="fill:#037bc0;fill-opacity:1"
+   id="tspan3">M</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
