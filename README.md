@@ -9,7 +9,7 @@ Dentro de la pagina se trabajan secciones como un sobre nosotros, galería, tien
 ![TiendaMuebles-Blog](https://github.com/FrEaKAlL/ecommerce/assets/19698743/4532a9ee-7123-476b-8f62-373f4978dc7d)
 ![TiendaMuebles-Contacto](https://github.com/FrEaKAlL/ecommerce/assets/19698743/57a9c135-acac-4a58-b931-37def78772a8)
 
-### Contenido Responsive con media queries
+### Contenido Responsive
 
 ![TiendaMuebles-Principal-Rr](https://github.com/FrEaKAlL/ecommerce/assets/19698743/8b8ee030-77ee-4d05-b5dd-778afd9071a7)
 ![TiendaMuebles-Productos-Rr](https://github.com/FrEaKAlL/ecommerce/assets/19698743/03156c69-2376-46fd-b6f2-46f80a471e60)
